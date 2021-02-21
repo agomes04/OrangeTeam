@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-21T02:24:22Z" name="Suite" finished-at="2021-02-21T02:24:31Z" duration-ms="8735">
+    <groups>
+    </groups>
+    <test started-at="2021-02-21T02:24:22Z" name="Test" finished-at="2021-02-21T02:24:31Z" duration-ms="8735">
+      <class name="com.smoke.test.SmokeTestNG">
+        <test-method is-config="true" signature="getDriverSetup()[pri:0, instance:com.smoke.test.SmokeTestNG@5a5338df]" started-at="2021-02-21T02:24:22Z" name="getDriverSetup" finished-at="2021-02-21T02:24:27Z" duration-ms="4909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriverSetup -->
+        <test-method signature="getActualTest()[pri:0, instance:com.smoke.test.SmokeTestNG@5a5338df]" started-at="2021-02-21T02:24:27Z" name="getActualTest" finished-at="2021-02-21T02:24:30Z" duration-ms="3026" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getActualTest -->
+        <test-method is-config="true" signature="getDriverClose()[pri:0, instance:com.smoke.test.SmokeTestNG@5a5338df]" started-at="2021-02-21T02:24:30Z" name="getDriverClose" finished-at="2021-02-21T02:24:31Z" duration-ms="769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriverClose -->
+      </class> <!-- com.smoke.test.SmokeTestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
